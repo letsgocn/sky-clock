@@ -4,7 +4,5 @@ import contributors from "../../contributors";
 import Contributor from "./Contributor";
 
 export default function Contributors() {
-    return (
-    
-    )
+    return null;
 }
